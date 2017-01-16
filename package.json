@@ -1,0 +1,14 @@
+{
+  "name": "tictactoe",
+  "version": "1.0.0",
+  "description": "tic tac toe game in command line",
+  "main": "ttt.js",
+  "scripts": {
+    "start": "node ttt.js"
+  },
+  "author": "Adam Wang",
+  "license": "ISC",
+  "dependencies": {
+    "prompt": "^1.0.0"
+  }
+}
